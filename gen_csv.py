@@ -3,7 +3,7 @@ from datetime import datetime
 from pprint import pprint as pp
 
 NAME = "Buy Me a Coffee"
-DESC = "No utility, No roadmap. Just buy me a coffee 🙏"
+DESC = "No utility, No roadmap. Just buy me a coffee."
 IMG = "https://diewland.github.io/buy-me-a-coffee/assets/{}.png"
 ENGINE = "Jigsaw Engine"
 
