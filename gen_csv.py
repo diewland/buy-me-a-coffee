@@ -37,7 +37,7 @@ for (qty, times) in TOKEN_CONFIG:
 
         # update data
         metadata["name"] = "{} #{}".format(NAME, id)
-        metadata["image"] = IMG.format(qty)
+        metadata["image"] = IMG.format(id)
         metadata["attributes"][0]["value"] = qty
 
         # write to file
