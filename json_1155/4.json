@@ -1,0 +1,11 @@
+{
+  "name": "Buy Me a Coffee x365",
+  "description": "No utility, No roadmap. Just buy me a coffee.",
+  "image": "ipfs://bafybeiaakusqpwc3lqscq2ebk774mxt3vqwhr73zogw4usyt3flitjcwua/365.png",
+  "attributes": [
+    {
+      "trait_type": "Qty",
+      "value": 365
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Buy Me a Coffee x1",
+  "description": "No utility, No roadmap. Just buy me a coffee.",
+  "image": "ipfs://bafybeiaakusqpwc3lqscq2ebk774mxt3vqwhr73zogw4usyt3flitjcwua/1.png",
+  "attributes": [
+    {
+      "trait_type": "Qty",
+      "value": 1
+    }
+  ]
+}
